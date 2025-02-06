@@ -1,0 +1,1 @@
+This repository contains a Python implementation of seasonal decomposition applied to customer sales data. The code decomposes the sales data into its seasonal component and identifies the peak month for each customer based on the seasonal pattern.
